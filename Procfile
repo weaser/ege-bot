@@ -1,1 +1,1 @@
-worker: python ege_literature_bot.py
+worker: python main.py
